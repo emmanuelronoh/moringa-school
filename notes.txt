@@ -1,0 +1,8 @@
+React notes
+Imperative - Describing how program works
+    focusing on how the program operates
+declarative - Focusing on the  program should accomplish
+
+react- Frontend Javascript Library 
+npx create-react-app <name of the app>
+npx - node package execution.
